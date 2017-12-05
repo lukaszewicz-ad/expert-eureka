@@ -3,7 +3,6 @@ import Observer from 'react-intersection-observer'
 import styles from './root.css';
 import { Wrapper } from './styled';
 import TopHeader from './components/top/TopHeader';
-{inView => (inView ? console.log('jest') : console.log('nie ma'))}
 
 const App = () =>
 
@@ -14,3 +13,4 @@ const App = () =>
   </Wrapper>);
 
 export default App;
+Ą

@@ -5,10 +5,7 @@ class TopHeader extends React.Component {
   render() {
     return (
       <Container>
-        <Logo />
         <Copy>my Application</Copy>
-        <MenuButton>
-        </MenuButton>
       </Container>
     )
   }
