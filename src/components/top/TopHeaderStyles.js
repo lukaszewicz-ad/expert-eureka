@@ -1,9 +1,8 @@
-/* eslint linebreak-style: ["error", "windows"] */
 import styled from 'styled-components';
 
 export const Container = styled.div`
   display: flex;
-  background-color: rgb(88, 151, 252);
+  background-color: #2E3641;
   color: #efefef;
   justify-content: center;
   height: 50px;
@@ -14,7 +13,7 @@ export const Container = styled.div`
 
 export const Logo = styled.div`
   display: block;
-  background-color: rgb(112, 167, 255);
+  background-color: #454C46;
   height: 50px;
   width: 50px;
   position: absolute;
