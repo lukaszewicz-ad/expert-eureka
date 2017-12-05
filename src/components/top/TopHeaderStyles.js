@@ -28,11 +28,9 @@ export const Copy = styled.div`
 `;
 
 export const MenuButton = styled.div`
-  display: block;
-  background-color: rgb(112, 167, 255);
-  float: right;
-    position: absolute;
+  display: inline-block;
+    fill: #fff;
   right: 0; 
   width: 50px;
-  height: 50px;
+  height: 50px; 
 `;
